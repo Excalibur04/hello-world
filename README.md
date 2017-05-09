@@ -1,2 +1,2 @@
 # hello-world
-halu halu
+hello hello
